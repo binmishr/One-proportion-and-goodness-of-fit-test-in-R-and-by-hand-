@@ -1,0 +1,1 @@
+# One-proportion-and-goodness-of-fit-test-in-R-and-by-hand-
